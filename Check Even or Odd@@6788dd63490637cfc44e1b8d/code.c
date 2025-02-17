@@ -7,6 +7,6 @@ int main(){
         printf("Even");
     else 
         printf("Odd");
-    output 0;
+    return 0;
     
 }
