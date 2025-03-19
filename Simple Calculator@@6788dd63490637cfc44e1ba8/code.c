@@ -7,5 +7,8 @@ int main(){
     if(op == '+'){
         printf ("%d",a+b);
     }
+    else{
+        printf("0");
+    }
     
 }
