@@ -4,4 +4,5 @@ int main(){
     scanf("%d%d" , &a , &b);
     result = a | b;
     printf( result);
+    return 0;
 }
