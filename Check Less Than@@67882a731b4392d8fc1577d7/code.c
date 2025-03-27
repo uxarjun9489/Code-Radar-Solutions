@@ -8,6 +8,6 @@ int main(){
     else if(a > b)
         printf("False\n");
     else
-        printf("Same")
+        printf("Same");
     return 0;
 }
