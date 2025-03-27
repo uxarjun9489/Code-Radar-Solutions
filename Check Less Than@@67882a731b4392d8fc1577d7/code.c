@@ -6,6 +6,8 @@ int main(){
     if  (a < b)
         printf("True\n");
     else if(a > b)
-        printf("False\n")
+        printf("False\n");
+    else
+        printf("Same")
     return 0;
 }
